@@ -1,10 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is C80C-33F5
-
- Directory of E:\GIT\mygitproject
-
-12/02/2018  10:57 PM    <DIR>          .
-12/02/2018  10:57 PM    <DIR>          ..
-12/02/2018  10:57 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  83,923,746,816 bytes free
+changed
